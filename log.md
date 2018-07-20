@@ -13,3 +13,10 @@
 **Today's Progress**: I worked in a Vue app and also continue the study the basics of it. I am following this series of screencast [Learn Vue 2: Step By Step](https://laracasts.com/series/learn-vue-2-step-by-step/) from Laracasts.
 
 **Thoughts:** I started to understand better the concepts and feel more confident.
+
+### Day 2: July 19, 2018
+
+**Today's Progress**: I worked creating a base component for the Vue app and learned about components and the ways of extending them
+
+**Thoughts:** I still struggle a lot to learn these new principles
+ 
