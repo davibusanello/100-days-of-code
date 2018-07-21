@@ -20,3 +20,8 @@
 
 **Thoughts:** I still struggle a lot to learn these new principles
  
+### Day 3: July 20, 2018
+
+**Today's Progress**: I continue working in the Vue app and learned about testing with Jest and how to use it.
+
+**Thoughts:** Today I am travelling then it was an easy day
