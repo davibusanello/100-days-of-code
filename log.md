@@ -25,3 +25,27 @@
 **Today's Progress**: I continue working in the Vue app and learned about testing with Jest and how to use it.
 
 **Thoughts:** Today I am travelling then it was an easy day
+
+### Day 4: July 21, 2018
+
+**Today's Progress**: I continue working in the Vue app and learning about testing with Jest.
+
+**Thoughts:** I think that I will need back to basics of ES5&6 or back to the scratch of modern JS
+
+### Day 5: July 22, 2018
+
+**Today's Progress**: I continue working in the Vue app, also I worked in a wrapper to use 'yay' as Pacman wrapper in dotbot, and I am planning to extract it as dotbot's plugin to be available to others.
+
+**Thoughts:** Dotbot is written in Python and I thought maybe my code would be a real mess since Python was never my primary language and I have not used it for years.
+
+### Day 6: July 23, 2018
+
+**Today's Progress**: I continue working in the Vue app and thinking about the Dotbot's plugin
+
+**Thoughts:** 
+
+### Day 7: July 24, 2018
+
+**Today's Progress**: I continue learning Vue.js and also how to make component available as NPM package.
+
+**Thoughts:** I really like to create reusable things such as components, others libraries etc.
