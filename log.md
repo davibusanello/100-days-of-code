@@ -49,3 +49,9 @@
 **Today's Progress**: I continue learning Vue.js and also how to make component available as NPM package.
 
 **Thoughts:** I really like to create reusable things such as components, others libraries etc.
+
+### Day 8: July 25, 2018
+
+**Today's Progress**: I learned more about components and started learning Vue.js Style Guide 😁
+
+**Thoughts:** I am feeling more confident ^.^
