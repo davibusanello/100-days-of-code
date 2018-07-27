@@ -1,5 +1,7 @@
 # 100 Days Of Code - Log
 
+## This tracking my journey since I have started the challenge
+
 ### Day 0: July 17, 2018
 
 **Today's Progress**: Improved my dotfiles, worked on Vue study.
@@ -19,7 +21,7 @@
 **Today's Progress**: I worked creating a base component for the Vue app and learned about components and the ways of extending them
 
 **Thoughts:** I still struggle a lot to learn these new principles
- 
+
 ### Day 3: July 20, 2018
 
 **Today's Progress**: I continue working in the Vue app and learned about testing with Jest and how to use it.
@@ -42,7 +44,7 @@
 
 **Today's Progress**: I continue working in the Vue app and thinking about the Dotbot's plugin
 
-**Thoughts:** 
+**Thoughts:**
 
 ### Day 7: July 24, 2018
 
@@ -55,3 +57,9 @@
 **Today's Progress**: I learned more about components and started learning Vue.js Style Guide 😁
 
 **Thoughts:** I am feeling more confident ^.^
+
+### Day 9: July 26, 2018
+
+**Today's Progress**: I continue learning about components, and I reviewed an old project in how can I improve it
+
+**Thoughts:** I thought back in integrate this old project with Google Cloud Natural Language Processing API & deploy it on GCP
