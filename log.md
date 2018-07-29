@@ -63,3 +63,17 @@
 **Today's Progress**: I continue learning about components, and I reviewed an old project in how can I improve it
 
 **Thoughts:** I thought back in integrate this old project with Google Cloud Natural Language Processing API & deploy it on GCP
+
+### Day 10: July 27, 2018
+
+**Today's Progress**: Worked in the Vue app
+
+**Thoughts:**
+
+### Day 11: July 28, 2018
+
+**Today's Progress**: I worked in some patches to the dotbot-pip, a dotbot's plugin to install python packages
+
+**Thoughts:** I am very excited by submitting this Pull Requests to an Open Source Project
+
+**Link to work:** [dotbot-pip Fork](https://github.com/davibusanello/dotbot-pip)
