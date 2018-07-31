@@ -77,3 +77,12 @@
 **Thoughts:** I am very excited by submitting this Pull Requests to an Open Source Project
 
 **Link to work:** [dotbot-pip Fork](https://github.com/davibusanello/dotbot-pip)
+
+### Day 12: July 29, 2018
+
+**Today's Progress**: I am learning about using GCP, and deploying an old project on there when I ran out of energy..
+
+**Thoughts:** I'm so happy that my pull request from yesterday was merged into the project even that I'm not a #Python guy 😁🚀
+
+**Link to work:** [Pull request merged at dotbot-pip](https://github.com/sobolevn/dotbot-pip/pull/2)
+
