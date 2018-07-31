@@ -86,3 +86,8 @@
 
 **Link to work:** [Pull request merged at dotbot-pip](https://github.com/sobolevn/dotbot-pip/pull/2)
 
+### Day 13: July 30, 2018
+
+**Today's Progress**: I continue learning about GCP and I continued working in the Vue app
+
+**Thoughts:** I'm very tired by slept just 4 hours last night
