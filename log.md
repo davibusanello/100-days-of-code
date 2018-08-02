@@ -91,3 +91,12 @@
 **Today's Progress**: I continue learning about GCP and I continued working in the Vue app
 
 **Thoughts:** I'm very tired by slept just 4 hours last night
+
+### Day 14: July 31, 2018
+
+**Today's Progress**: I worked in my dotfiles, since my SSD has died one month ago, I don't have finished setting up my all environment,
+I wrote shells to automate things
+
+### Day 15: Aug 01, 2018
+
+**Today's Progress**: I continue my dotfiles, also make some aliases to dockers
