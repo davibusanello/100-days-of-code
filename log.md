@@ -100,3 +100,15 @@ I wrote shells to automate things
 ### Day 15: Aug 01, 2018
 
 **Today's Progress**: I continue my dotfiles, also make some aliases to dockers
+
+## Restart the Journey
+
+I was traveling for many days and working a lot, then I decided to restart the journey.
+
+### Day 001: Aug 08, 2018
+
+**Today's Progress**: I worked in some Dockerfiles, also in my dotfiles Project creating some Shell Scripts to use my development environment such as languages runtime and tools from inside Docker containers like it was installed locally.
+
+**Thoughts:** I still have work to do about it.
+
+**Link to work:** [dotfiles](https://github.com/davibusanello/dotfiles)
